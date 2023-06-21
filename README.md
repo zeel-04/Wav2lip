@@ -11,10 +11,7 @@
 ##### Audio Input - [Drive link](https://drive.google.com/file/d/1jhUOAeGw8lPjNf7Q1cIcBOvzE3CJ3gVz/view)
 
 #### First output (Rating :star:  )
-<video width="320" height="240" controls>
-  <source src="https://github.com/zeel-04/Wav2lip/assets/89509864/50cbd345-ef36-4abb-bfda-f00718faf072" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/zeel-04/Wav2lip/assets/89509864/50cbd345-ef36-4abb-bfda-f00718faf072
 
 
 
