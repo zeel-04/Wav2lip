@@ -1,5 +1,5 @@
 # **Wav2Lip** 
-###Lip Synchronization Assignment 
+### Lip Synchronization Assignment 
 
 - This repo contains a colab notebook for custom lip Synchronization task.
 - Reference taken form this [Github Repo.](https://github.com/Rudrabha/Wav2Lip "link")
@@ -9,4 +9,4 @@
 
 
 
-###End
+### End
