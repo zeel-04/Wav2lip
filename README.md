@@ -27,4 +27,4 @@ https://github.com/zeel-04/Wav2lip/assets/89509864/b845e975-566f-4a91-bbc6-623df
 https://github.com/zeel-04/Wav2lip/assets/89509864/50cbd345-ef36-4abb-bfda-f00718faf072
 
 
-### :v: Peace out
+### :v: Thanks for visiting.
